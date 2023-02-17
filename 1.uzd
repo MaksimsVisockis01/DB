@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T07:13:45.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="QDynxIzZrCsA64SgsSah" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T07:19:11.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="UMg1rE2CROBc0y2dUc35" type="github">
   <diagram id="H8pjmIi_nV-Q6WKcPVoE" name="Lapa-1">
-    <mxGraphModel dx="683" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,24 @@
         </mxCell>
         <mxCell id="KTQKEutIfBAK-K3LCxt7-6" value="satur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTQKEutIfBAK-K3LCxt7-7" value="vārds" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="154" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTQKEutIfBAK-K3LCxt7-8" value="uzvārds" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="248" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTQKEutIfBAK-K3LCxt7-9" value="personas &lt;br&gt;k." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KTQKEutIfBAK-K3LCxt7-10" value="telefon n." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTQKEutIfBAK-K3LCxt7-11" value="pasūta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTQKEutIfBAK-K3LCxt7-12" value="1.uzd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
