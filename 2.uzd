@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T07:35:08.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="iKsJKVPBVrGhwcSF6hGh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T07:36:41.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.7.4" etag="lapatjQssVZ6Vfdk18_J" type="github">
   <diagram id="HpX_3PICqNrM1boJTh22" name="Lapa-1">
     <mxGraphModel dx="637" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,20 +56,11 @@
         <mxCell id="EBHECxBCyAZEw4QDbWSj-16" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EBHECxBCyAZEw4QDbWSj-17" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EBHECxBCyAZEw4QDbWSj-17" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="190" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBHECxBCyAZEw4QDbWSj-18" value="ir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="190" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EBHECxBCyAZEw4QDbWSj-20" value="maksājumu sist.(visa utt.)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="110" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="EBHECxBCyAZEw4QDbWSj-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.103;entryY=0.791;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EBHECxBCyAZEw4QDbWSj-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="190" as="sourcePoint" />
-            <mxPoint x="439" y="140" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
