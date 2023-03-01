@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:41:14.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5GwTBfL_v-FC-EJipj9K" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:41:35.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HVZKTOOBt8J7nSzqpkiy" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3218" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1981" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -248,6 +248,9 @@
             <mxPoint x="-170" y="15" as="sourcePoint" />
             <mxPoint x="-80" y="15" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-217" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e.rvt.lv/pluginfile.php/42316/mod_book/chapter/475/Restorans.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-760" y="560" width="520" height="255" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
