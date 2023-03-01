@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:43:29.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x77qgFsEPP0vXLtnjOb2" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:46:19.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="d5CiXUTqz28rxa34E0yb" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2808" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
         <mxCell id="d6B8SzeVuRIWW5GzlKki-217" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e.rvt.lv/pluginfile.php/42316/mod_book/chapter/475/Restorans.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-760" y="770" width="520" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-274" value="PrecuInfo" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-274" value="Galdini" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-285" y="480" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="d6B8SzeVuRIWW5GzlKki-275" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-274">
@@ -263,7 +263,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-277" value="InfoID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-275">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-277" value="GaldiniID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-275">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -276,7 +276,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-280" value="Izpildītājs" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-278">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-280" value="Nosaukums" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-278">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -289,7 +289,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-283" value="Albums" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-281">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-283" value="Vietu_sk" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-281">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -302,7 +302,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-286" value="Žanrs" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-284">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-286" value="Smeketaju_sk" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-284">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -315,7 +315,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-289" value="Izdošanas_gads" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-287">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-289" value="Nesmeketaju_sk" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-287">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -328,12 +328,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-292" value="Izdevējs" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-290">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-292" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-290">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-293" value="Preces" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-293" value="Klienti" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-605" y="480" width="230" height="240" as="geometry" />
         </mxCell>
         <mxCell id="d6B8SzeVuRIWW5GzlKki-294" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-293">
@@ -344,7 +344,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-296" value="PrecesID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-294">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-296" value="KlientiID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-294">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -357,7 +357,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-299" value="Nosaukums" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-297">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-299" value="Talrunis" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-297">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -370,7 +370,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-302" value="Cena" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-300">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-302" value="Epasts" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-300">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -383,7 +383,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-305" value="Bilde" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-303">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-305" value="Vards" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-303">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -396,7 +396,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-308" value="Precu_skaits" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-306">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-308" value="Uzvards" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-306">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -427,7 +427,7 @@
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-315" value="PrecuKategorija" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-315" value="Pasutijumi" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-945" y="540" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="d6B8SzeVuRIWW5GzlKki-316" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-315">
@@ -451,7 +451,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-321" value="Nosaukums" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-319">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-321" value="Datums" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-319">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -464,7 +464,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-324" value="Apraksts" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-322">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-324" value="Summa" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-322">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -477,21 +477,9 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-327" value="Precu_skaits" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-325">
+        <mxCell id="d6B8SzeVuRIWW5GzlKki-327" value="PVN_21%" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="d6B8SzeVuRIWW5GzlKki-325">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-328" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d6B8SzeVuRIWW5GzlKki-316" target="d6B8SzeVuRIWW5GzlKki-309">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-635" y="730" as="sourcePoint" />
-            <mxPoint x="-715" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6B8SzeVuRIWW5GzlKki-329" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d6B8SzeVuRIWW5GzlKki-312" target="d6B8SzeVuRIWW5GzlKki-275">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-975" y="465" as="sourcePoint" />
-            <mxPoint x="-885" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
