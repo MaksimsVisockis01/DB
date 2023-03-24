@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T14:38:55.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3TkQpKn5lqNTG2s2l5ou" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T14:40:57.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="acy8Z1bkoSIyqoKbSper" version="21.0.10" type="github">
   <diagram id="NoPEbKO8cmSXoBwS1BsT" name="Страница 1">
     <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,6 +200,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="380" as="sourcePoint" />
             <mxPoint x="430" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lGrx4XH84Fc_aEwPbtfh-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="255" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGrx4XH84Fc_aEwPbtfh-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGrx4XH84Fc_aEwPbtfh-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="lGrx4XH84Fc_aEwPbtfh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="290" as="sourcePoint" />
+            <mxPoint x="425" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
