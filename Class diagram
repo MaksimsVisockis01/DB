@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T18:51:29.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BbeoXkgRunKIX9k680Do" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T21:00:55.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SETGm86GnsnUwc5DVnTo" version="21.1.0" type="github">
   <diagram name="Страница 1" id="b9kk0YXFGNYT1xeEKQma">
-    <mxGraphModel dx="3623" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3747" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,7 +706,7 @@
             <mxPoint x="-40" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u242mM38cP9rVyOafIUS-1" value="GInfo" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="u242mM38cP9rVyOafIUS-1" value="GShop" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="-710" y="80" width="230" height="180" as="geometry">
             <mxRectangle x="-210" y="120" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -745,7 +745,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4C-WOjmuiHKYhHJaf4Ns-16" value="TotalPrice float(10)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="4C-WOjmuiHKYhHJaf4Ns-14" vertex="1">
+        <mxCell id="4C-WOjmuiHKYhHJaf4Ns-16" value="GamesKeyCount" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="4C-WOjmuiHKYhHJaf4Ns-14" vertex="1">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
