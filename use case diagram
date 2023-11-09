@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T16:18:27.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="wd5Njj-Y357qNiBrrXbo" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T16:28:49.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="wmSvXFgNwKdbroS4PeG5" version="22.1.0" type="github">
   <diagram id="NoPEbKO8cmSXoBwS1BsT" name="Страница 1">
     <mxGraphModel dx="4200" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wPqzYDDH1ipMDOeWjikv-57" value="Uzrakstīt jautājumu/komentāru" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1490" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1500" y="460" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wPqzYDDH1ipMDOeWjikv-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.695;exitY=0.954;exitDx=0;exitDy=0;entryX=0.256;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="wPqzYDDH1ipMDOeWjikv-57" target="wPqzYDDH1ipMDOeWjikv-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -484,7 +484,7 @@
             <mxPoint x="-1114" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPqzYDDH1ipMDOeWjikv-82" value="Vertēt/komentēt grāmatas/failus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wPqzYDDH1ipMDOeWjikv-82" value="Vērtēt/komentēt grāmatas/failus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="225" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wPqzYDDH1ipMDOeWjikv-85" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.092;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wPqzYDDH1ipMDOeWjikv-47" target="wPqzYDDH1ipMDOeWjikv-82">
