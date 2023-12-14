@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T16:52:19.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="RWUabvBkMifxeyMrbeUA" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T17:22:56.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="SBAiIHT6JU9JPEN9rF3B" version="22.1.8" type="github">
   <diagram name="Страница — 1" id="CzYXnfrSxWvkzKaICFzI">
-    <mxGraphModel dx="961" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="340" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,40 @@
           <mxGeometry x="270" y="68" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Iyl8EY8KUFae6L-Xrzge-6" value="1.&lt;b&gt;Jauna&lt;br/&gt;lietotāja reģistrācija&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="140" height="40" as="geometry" />
+          <mxGeometry x="20" y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iyl8EY8KUFae6L-Xrzge-7" target="Iyl8EY8KUFae6L-Xrzge-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="377.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-8" value="2.&lt;b&gt;Lietotāju&lt;br/&gt;bloķēšana&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-9" value="3.&lt;b&gt;Jautājuma&lt;br&gt;izveidošana&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="697" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-10" value="&lt;b&gt;4.&lt;/b&gt;&lt;b&gt;Komentāru&lt;br/&gt;izveidošana&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="792" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-11" value="&lt;b&gt;5. Grāmatu/failu&lt;br/&gt;lejupladēšana&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="900" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iyl8EY8KUFae6L-Xrzge-12" target="Iyl8EY8KUFae6L-Xrzge-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-12" value="Tukšu ievades lauku pārbaude" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="362.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-14" value="reģistrācijas dati" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyl8EY8KUFae6L-Xrzge-20" value="paziņojums, ka jāaizpilda visi lauki" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
