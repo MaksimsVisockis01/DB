@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T16:52:40.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="kLpa1gDaGkvvMH_Lpzzh" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T16:53:39.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="TLAYcmYVzL0eWi00unrR" version="24.4.8" type="github">
   <diagram id="NoPEbKO8cmSXoBwS1BsT" name="Страница 1">
-    <mxGraphModel dx="4114" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4402" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,8 +283,8 @@
         <mxCell id="wPqzYDDH1ipMDOeWjikv-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1676.75" y="-28.5" width="778.5" height="778.5" as="geometry" />
         </mxCell>
-        <mxCell id="wPqzYDDH1ipMDOeWjikv-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Izglītības un komunicēšanas platforma&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1421" y="-80" width="360" height="40" as="geometry" />
+        <mxCell id="wPqzYDDH1ipMDOeWjikv-3" value="&lt;a name=&quot;_Hlk167644082&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:20.0pt;mso-bidi-font-size:11.0pt;line-height:&lt;br/&gt;150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;&lt;br/&gt;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;mso-ansi-language:&lt;br/&gt;LV;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Tiešsaistes &lt;/span&gt;&lt;span style=&quot;font-size:20.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;mso-ansi-language:LV;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA;mso-bidi-font-weight:bold&quot;&gt;izglītības un komunicēšanas platforma&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1630" y="-80" width="610" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wPqzYDDH1ipMDOeWjikv-4" value="Students" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-1740" y="185" width="30" height="60" as="geometry" />
